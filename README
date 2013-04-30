@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4567
+
+This syntax file provides syntax highlighting for W3AF scripts, W3AF is a Web Application Attack and Audit Framework (http://w3af.org/).
+
+Licensed under GPLv2.0 like W3AF.
